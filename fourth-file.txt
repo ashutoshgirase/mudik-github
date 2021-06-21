@@ -16,3 +16,5 @@ git branch avg
 git checkout avg
 
 git merge avg : to merge into main
+
+git commit -a -m "comment"
