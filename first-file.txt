@@ -4,4 +4,17 @@ git remote add origin "https://github.com/ashutoshgirase/mudik-github.git"
 
 git pull origin main
 
-modified
+git status
+git add file name
+
+git add -A : to add all the files
+
+git log
+ 
+git branch avg
+
+git checkout avg
+
+git merge avg : to merge into main
+
+git commit -a -m "comment"
