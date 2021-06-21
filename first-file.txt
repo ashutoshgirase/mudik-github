@@ -1,0 +1,6 @@
+git init
+
+git remote add origin "https://github.com/ashutoshgirase/mudik-github.git"
+
+git pull origin main
+
